@@ -2,7 +2,7 @@ import BlogDetails from "@/components/inner-pages/blogs/blog-details";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "Blog Details industril - Factory and Industrial React Next js Template",
+  title: "Vishal Joshi sir",
 };
 const index = () => {
    return (

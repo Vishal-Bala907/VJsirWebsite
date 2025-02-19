@@ -2,7 +2,7 @@ import Pricing from "@/components/inner-pages/pricing";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Pricing industril - Factory and Industrial React Next js Template",
+  title: "Vishal Joshi sir",
 };
 const index = () => {
   return (

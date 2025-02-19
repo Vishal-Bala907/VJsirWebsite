@@ -2,7 +2,7 @@ import Team from "@/components/inner-pages/teams/team";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Team industril - Factory and Industrial React Next js Template",
+  title: "Vishal Joshi sir",
 };
 const index = () => {
   return (

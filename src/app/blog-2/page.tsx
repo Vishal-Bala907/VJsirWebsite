@@ -5,7 +5,7 @@ import Wrapper from "@/layouts/Wrapper";
 import React from "react";
 
 export const metadata = {
-  title: "Blog 2- Factory and Industrial React Next js Template",
+  title: "Vishal Joshi sir",
 };
 const page = () => {
   return (

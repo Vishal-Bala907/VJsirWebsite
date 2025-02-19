@@ -2,7 +2,7 @@ import NotFound from "@/components/inner-pages/error";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-   title: "404 || industril - Factory and Industrial React Next js Template",
+  title: "Vishal Joshi sir",
 };
 const index = () => {
    return (
