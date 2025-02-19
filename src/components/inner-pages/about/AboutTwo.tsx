@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import about_img1 from "@/assets/img/arrow-shape.png";
-import about_img2 from "@/assets/img/placeholder/665 x 732.png";
+import about_img2 from "@/assets/img/vjsir/indian_students_studying_in_online_classroom_hd (2).jpeg";
 
 const AboutTwo = () => {
   return (
@@ -16,19 +16,19 @@ const AboutTwo = () => {
                   <h3 className="wow fadeInUp">Her Journey & Mission</h3>
                   {/* <h3>Our Missoin</h3> */}
                   <p className="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".3s">
-                    Kanchan Ma’am’s journey started with a passion for
-                    understanding human potential. After studying various
-                    self-improvement methodologies, she realized that the right
-                    mindset is the key to success in every area of life. Over
-                    the years, she has worked with business leaders, corporate
-                    professionals, students, and individuals to help them
-                    overcome fear, self-doubt, and limiting beliefs.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Excepturi velit ab voluptate! Eum harum nihil quae, facere
+                    dolore nisi voluptatem alias numquam, consectetur
+                    repellendus vero ut omnis! Porro dolorem, autem ab nisi
+                    voluptate, assumenda ipsam magnam, possimus similique quidem
+                    modi?
                   </p>
                 </div>
-                <h3>Her mission is simple:</h3>
+                <h3>His mission is simple:</h3>
                 <p className="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
-                  💡 To inspire, educate, and empower people to create a
-                  success-driven mindset and live a fulfilling life.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Voluptatem officiis eos nesciunt, odit dicta odio labore
+                  aliquid obcaecati inventore consequatur?
                 </p>
                 {/* <ul className="wow fadeInUp" data-wow-delay=".7s">
                   <li>
@@ -55,15 +55,16 @@ const AboutTwo = () => {
                   style={{ margin: "16px 0px" }}
                 >
                   <p>
-                    Kanchan Ma’am has helped countless individuals achieve
-                    breakthroughs in their personal and professional lives. From
-                    entrepreneurs growing successful businesses to professionals
-                    advancing in their careers—her coaching has changed lives.
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Nesciunt qui magni saepe dolor ea! Similique sint ullam,
+                    pariatur optio tempora eaque, asperiores, facere itaque
+                    tempore id dolorem eum adipisci modi.
                   </p>
                   <p>
-                    Her real-life success stories speak for themselves, proving
-                    that anyone can achieve greatness with the right mindset,
-                    strategy, and guidance.
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                    Sapiente illum dicta repellendus voluptatibus consequuntur
+                    perspiciatis neque unde! Ab sequi ipsa fugit optio,
+                    provident inventore laboriosam!
                   </p>
                 </div>
                 <Link
@@ -117,9 +118,10 @@ const AboutTwo = () => {
               data-wow-delay=".5s"
               style={{ margin: "0px 30px", display: "block" }}
             >
-              Kanchan Ma’am offers customized coaching programs designed to help
-              individuals achieve personal and professional growth. Her
-              expertise includes:
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+              Cupiditate illum in architecto ea sunt aliquid magnam, quos
+              reprehenderit, qui assumenda quas, id quibusdam minima! Quam
+              quidem iusto distinctio asperiores deleniti.
             </b>
             <ol
               className=""
@@ -127,24 +129,35 @@ const AboutTwo = () => {
               style={{ alignSelf: "start", margin: "0px 15px" }}
             >
               <li>
-                Mindset Mastery & Personal Development – Build confidence,
-                clarity, and resilience.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
+                reiciendis rem ut, repellendus repudiandae quaerat, esse,
+                suscipit modi obcaecati architecto impedit adipisci nesciunt!
+                Consequuntur, nihil? Necessitatibus repellendus vero praesentium
+                quas?
               </li>
               <li>
-                Success & Business Coaching – Learn strategies to excel in your
-                career or business.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Possimus ex vero accusantium soluta delectus, amet voluptas
+                quaerat, quibusdam voluptates debitis mollitia libero, beatae
+                dolore ipsa. Obcaecati voluptates sint doloribus blanditiis.
               </li>
               <li>
-                Emotional Intelligence & Stress Management – Master emotions for
-                a balanced life.s
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Possimus ex vero accusantium soluta delectus, amet voluptas
+                quaerat, quibusdam voluptates debitis mollitia libero, beatae
+                dolore ipsa. Obcaecati voluptates sint doloribus blanditiis.
               </li>
               <li>
-                Goal Setting & Productivity – Develop focus, discipline, and
-                high performance.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Possimus ex vero accusantium soluta delectus, amet voluptas
+                quaerat, quibusdam voluptates debitis mollitia libero, beatae
+                dolore ipsa. Obcaecati voluptates sint doloribus blanditiis.
               </li>
               <li>
-                Corporate Training & Team Building – Strengthen leadership and
-                teamwork.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Possimus ex vero accusantium soluta delectus, amet voluptas
+                quaerat, quibusdam voluptates debitis mollitia libero, beatae
+                dolore ipsa. Obcaecati voluptates sint doloribus blanditiis.
               </li>
             </ol>
           </div>

@@ -8,7 +8,7 @@ import { useState } from "react";
 import UseSticky from "@/hooks/UseSticky";
 
 // import logo from "@/assets/img/logo/logo.svg";
-import logo from "@/assets/img/placeholder/kanchanjilogo.png";
+import logo from "@/assets/img/vjsir/vjnucleuslogo.png";
 import dot_icon from "@/assets/img/dot.png";
 
 const HeaderOne = ({ headerTop }: any) => {
@@ -18,7 +18,7 @@ const HeaderOne = ({ headerTop }: any) => {
   return (
     <>
       <header>
-        {headerTop && <HeaderTop />}
+        {/* {headerTop && <HeaderTop />} */}
         <div
           id="header-sticky"
           className={`header-1 ${headerTop ? "" : "style-2"} ${

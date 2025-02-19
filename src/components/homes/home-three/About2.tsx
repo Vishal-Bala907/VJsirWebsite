@@ -3,7 +3,7 @@ import Count from "@/components/common/Count";
 import Link from "next/link";
 
 import about_thumb from "@/assets/img/about/about-3.jpg";
-import image from "@/assets/img/kanchan1.jpeg";
+import image from "@/assets/img/vjsir/vjsirphoto.png";
 import about_arrow from "@/assets/img/arrow-shape.png";
 
 interface ContentType {
@@ -16,40 +16,29 @@ interface ContentType {
 
 const about_content: ContentType = {
   sub_title: "ABOUT",
-  title: "Who is Kanchan Ma’am?",
+  title: "",
   desc_1: (
     <>
-      Kanchan is a
-      <span style={{ color: "#ffe000" }}> renowned mindset coach </span> and
-      <span style={{ color: "#ffe000" }}>
-        {" "}
-        academic performance coach and also a trainer
-      </span>{" "}
-      who specializes in personal development, motivation, and transformation.
-      With years of experience in{" "}
-      <span style={{ color: "#ffe000" }}>
-        {" "}
-        seminars, webinars, and life coaching
-      </span>
-      , she has empowered individuals to break their mental barriers and achieve
-      their true potential.
+      Are you aspiring to crack JEE or NEET and secure a seat in your dream
+      college? Look no further! With Vishal Joshi Sir (VJ Sir), a legendary
+      educator, mentor, and motivator with over 25+ years of experience, you are
+      in the hands of a true master. VJ Sir has mentored thousands of students,
+      helping them achieve top ranks in JEE and NEET, and his proven track
+      record speaks for itself.
     </>
   ),
   desc_2: (
     <>
-      Her coaching methods blend{" "}
-      <span style={{ color: "#ffe000" }}>
-        psychology, neuroscience, and practical techniques
-      </span>{" "}
-      to help you create lasting change. Whether it&apos;s career growth,
-      business success, or personal fulfillment—Kanchan&apos;s guidance can make
-      all the difference.
+      With 25+ years of teaching experience, VJ Sir has perfected his teaching
+      methods to deliver the best guidance to students. His deep understanding
+      of the JEE and NEET exams ensures that students are well-prepared to
+      tackle even the toughest questions.
     </>
   ),
   list: [
-    "Certified Mindset Trainer & Life Coach",
-    "Speaker at National & International Seminars",
-    "Proven Techniques for Mindset Transformation",
+    "📌 5 Lakh+ Students Mentored",
+    "📌 150+ IITians Team for You",
+    "📌 250+ JEE & NEET Toppers Generated",
   ],
 };
 

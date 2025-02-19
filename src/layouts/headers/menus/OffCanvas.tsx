@@ -16,7 +16,7 @@ const OffCanvas = ({ offCanvas, setOffCanvas }: any) => {
                 <div className="offcanvas__logo">
                   <Link href="/">
                     {/* <Image src={logo} alt="logo-img" /> */}
-                    Coach Kanchan
+                    Vishal joshi
                   </Link>
                 </div>
                 <div className="offcanvas__close">
@@ -26,12 +26,12 @@ const OffCanvas = ({ offCanvas, setOffCanvas }: any) => {
                 </div>
               </div>
               <p className="text d-none d-lg-block">
-                Kanchan Ma’am is a renowned mindset coach, speaker, and trainer
-                who has dedicated her life to helping individuals unlock their
-                full potential. With years of experience in personal
-                development, motivation, and transformation, she has impacted
-                thousands of lives through her powerful seminars, webinars, and
-                coaching programs.
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                Officia nemo doloremque quasi, consectetur ratione quis suscipit
+                quae quaerat cumque laudantium rem aliquid nulla necessitatibus
+                tenetur repudiandae ullam, unde tempora saepe voluptatibus?
+                Obcaecati dolor quibusdam amet voluptatum ut, est quisquam rerum
+                dignissimos eaque commodi fugiat inventore.
               </p>
               <div className="mobile-menu fix mb-5 mean-container d-block d-lg-none">
                 <div className="mean-bar">

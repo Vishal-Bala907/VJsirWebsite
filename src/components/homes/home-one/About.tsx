@@ -12,7 +12,7 @@ import about_img4 from "@/assets/img/arrow-shape.png";
 import about_img5 from "@/assets/img/fac1.jpeg";
 import about_img6 from "@/assets/img/fac1R.jpeg";
 import about_img7 from "@/assets/img/image4.jpeg";
-import about_img8 from "@/assets/img/WhatsApp Image 2025-02-09 at 10.52.35 AM.jpeg";
+import about_img8 from "@/assets/img/vjsir/vjsirimg.png";
 
 interface DataType {
   sub_title: string;
@@ -22,16 +22,18 @@ interface DataType {
 }
 
 const about_data: DataType = {
-  sub_title: "ABOUT TO Industril",
+  sub_title: "ABOUT TO Vishal Joshi",
   title: (
     <>
-      Take Charge of Your Mindset & Growth!
+      Eliminate Mental Roadblocks & Develop a Winning Attitude
       {/* <span style={{ color: "#ffe000" }}> Since 1984 </span> */}
     </>
   ),
-  desc: "Whether you’re striving for personal growth, professional success, or a balanced life, Kanchan Ma’am is here to guide you with proven techniques and strategies. Through *seminars, webinars, and personalized coaching*, she has transformed the lives of thousands.",
+  desc: "Identify and overcome self-doubt, fear, and distractions to stay focused on your goals.",
   about_list: [
-    "Join now and embark on a journey toward *self-mastery and success!",
+    "Build confidence, discipline, and a never-give-up attitude to tackle challenges head-on",
+    "Use AI-driven tools, live tests, and personalized feedback to track your progress and improve continuously.",
+    "Strive for excellence in academics while maintaining mental and emotional well-being.",
   ],
 };
 
@@ -92,7 +94,7 @@ const About = () => {
                         <h3>
                           <span className="count">
                             {/* <Count number={25} /> */}
-                            20+
+                            25+
                           </span>{" "}
                           Years of
                         </h3>
@@ -103,14 +105,14 @@ const About = () => {
                         >
                           Experience of
                         </p>
-                        <p
+                        {/* <p
                           style={{
                             textAlign: "left",
                           }}
                         >
                           training and mentoring <br /> students for academic{" "}
                           <br /> & career growth
-                        </p>
+                        </p> */}
                       </div>
                     </div>
                   </div>
@@ -119,18 +121,18 @@ const About = () => {
               <div className="col-xl-6 col-lg-8 mt-5 mt-xl-0">
                 <div className="about-content">
                   <div className="section-title">
-                    <span className="wow fadeInUp">Dr. Kanchan</span>
+                    <span className="wow fadeInUp">Vishal Joshi</span>
                     <h2 className="wow fadeInUp" data-wow-delay=".3s">
                       {title}
                     </h2>
                   </div>
-                  <p className="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
+                  {/* <p className="mt-4 mt-md-0 wow fadeInUp" data-wow-delay=".5s">
                     Whether you&apos;re striving for personal growth,
                     professional success, or a balanced life, Kanchan Ma&apos;am
                     is here to guide you with proven techniques and strategies.
                     Through <b>seminars, webinars, and personalized coaching</b>
                     , she has transformed the lives of thousands.
-                  </p>
+                  </p> */}
                   <ul className="wow fadeInUp" data-wow-delay=".7s">
                     {about_list.map((list, i) => (
                       <li key={i}>

@@ -14,57 +14,57 @@ const MarqueSection = () => {
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Unlock
+                Unmatched Expertise
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Your
+                25+ years of teaching experience
               </span>{" "}
               <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Potential
+                Updated Strategies & Knowledge
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                with
+                Updated Curriculum
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Kanchan
+                Technology-Driven Learning
               </span>{" "}
               <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Transform
+                Personalized Attention
               </span>{" "}
               <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Your
+                Proven Track Record of Success
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Mind
+                5 Lakh+ students
               </span>{" "}
               <span
                 className="text-slider style-2"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
-                Transform
+                250+ toppers in JEE and NEET
               </span>{" "}
-              <span
+              {/* <span
                 className="text-slider"
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
@@ -75,25 +75,7 @@ const MarqueSection = () => {
                 style={{ color: "white", WebkitTextStrokeColor: "white" }}
               >
                 Life
-              </span>{" "}
-              {/* <span
-                className="text-slider style-2"
-                style={{ color: "white", WebkitTextStrokeColor: "white" }}
-              >
-                &
-              </span>
-              <span
-                className="text-slider"
-                style={{ color: "white", WebkitTextStrokeColor: "white" }}
-              >
-                Mechanical
-              </span>{" "}
-              <span
-                className="text-slider"
-                style={{ color: "white", WebkitTextStrokeColor: "white" }}
-              >
-                Services
-              </span> */}
+              </span>{" "} */}
             </li>
           </ul>
         </div>

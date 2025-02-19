@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import about_arrow from "@/assets/img/arrow-shape.png";
-import about_thumb from "@/assets/img/WhatsApp Image 2025-02-09 at 10.52.35 AM.jpeg";
+import about_thumb from "@/assets/img/vjsir/1733047243821.jpeg";
 
 interface ContentType {
   sub_title: string;
@@ -13,33 +13,30 @@ interface ContentType {
 }
 
 const about_content: ContentType = {
-  sub_title: "About Kanchan Ma’am",
+  sub_title: "About Vishal Joshi sir",
   title: "Empowering Minds, Transforming Lives",
   desc_1: (
     <>
-      Kanchan Ma’am is a renowned mindset coach, speaker, and trainer who has
-      dedicated her life to helping individuals unlock their full potential.
-      With years of experience in personal development, motivation, and
-      transformation, she has impacted thousands of lives through her powerful
-      seminars, webinars, and coaching programs.
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam id
+      accusantium nostrum eligendi et distinctio aut tempore, repudiandae, cum
+      omnis eveniet quis laudantium in quod harum alias, consequuntur totam?
+      Adipisci!
     </>
   ),
   desc_2: (
     <>
-      Her unique coaching style combines the principles of psychology,
-      neuroscience, and practical self-development techniques to create lasting
-      change. Whether you’re an entrepreneur, professional, student, or someone
-      seeking personal growth, Kanchan Ma’am’s guidance can help you break
-      through mental barriers, develop an unshakable mindset, and achieve your
-      biggest goals.
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam id
+      accusantium nostrum eligendi et distinctio aut tempore, repudiandae, cum
+      omnis eveniet quis laudantium in quod harum alias, consequuntur totam?
+      Adipisci!
     </>
   ),
   list: [
-    <>Certified Mindset Trainer & Life Coach</>,
-    <> Speaker at National & International Seminars</>,
-    <>Expert in Emotional Intelligence & Self-Mastery</>,
-    <>Trained Thousands of Individuals & Professionals</>,
-    <>Proven Techniques for Mindset Transformation</>,
+    <>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab.</>,
+    <>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab.</>,
+    <>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab.-Mastery</>,
+    <>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab.</>,
+    <>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab.</>,
   ],
 };
 
@@ -109,7 +106,7 @@ const AboutArea = () => {
                   {desc_2}
                 </p>
                 <h4 style={{ margin: "12px 0px" }}>
-                  Why Choose Kanchan Ma’am?
+                  Why Choose Vishal Joshi sir
                 </h4>
                 <ul
                   className="wow fadeInUp"

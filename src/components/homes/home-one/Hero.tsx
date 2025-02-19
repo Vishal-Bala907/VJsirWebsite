@@ -110,18 +110,11 @@ const Hero = () => {
                     <div className="col-xl-9">
                       <div className="hero-content">
                         <h2 data-animation="fadeInUp" data-delay="1.3s">
-                          {/* Welcome to{" "} */}
-                          Kanchan The &nbsp;
-                          <span style={{ color: "#ffe000" }}>
-                            Mindset Coach
-                          </span>
-                        </h2>
-                        <h2 data-animation="fadeInUp" data-delay="1.5s">
-                          Unlock Your Potential with Kanchan <br />- Transform
-                          Your Mind <br /> - Transform Your Life!
+                          Welcome to VJ Sir’s Mentorship – <br /> Your Gateway to <br /> JEE &
+                          NEET Success!
                         </h2>
                         <p style={{ color: "white", whiteSpace: "none" }}>
-                          Take Charge of Your Mindset & Growth!
+                          Take Charge of Your Educational & Growth!
                         </p>
                         <div className="hero-button">
                           <Link
